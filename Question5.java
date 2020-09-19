@@ -1,16 +1,13 @@
-package day_2;
+package day_3;
 
 public class Question5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("* * * * * * *");
-		System.out.println("* *       * *");
-		System.out.println("*   *   *   *");
-		System.out.println("*     *     *");
-		System.out.println("*   *   *   *");
-		System.out.println("* *       * *");
-		System.out.println("* * * * * * *");
+		
+		int first=55, second=123;
+		
+		System.out.println("first is "+ first +" "+ "second="+second);
 
 	}
 
