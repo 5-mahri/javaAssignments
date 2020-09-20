@@ -1,14 +1,11 @@
-package day_3;
+package day_2;
 
 public class Question1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int count;
-		count=20;
-		System.out.println(count);
-		
+		System.out.println("\"I am ready to be a Java pro :)\"");
 
 	}
 
